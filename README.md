@@ -7,6 +7,7 @@ ArgoCD In One Shot is your one-stop solution to learn and implement ArgoCD from 
 
 This repository is organized into chapters, each with hands-on examples, manifests, scripts, and images. Below is an overview of each chapter and the related directories or features you will find:
 
+
 ---
 
 
